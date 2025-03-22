@@ -1,0 +1,1 @@
+# write-a-C-program-to-find-out-a-number-whole-or-not
